@@ -1,0 +1,8 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/ninja-saigon/core.git
+	branch = v1.0.1
+[submodule "report"]
+	path = report
+	url = https://github.com/ninja-saigon/report.git
+	branch = v1.0.1
